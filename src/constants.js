@@ -154,7 +154,7 @@ export const SkillsInfo = [
       image: portfolio,
       tags: ["Javascript","React JS", "Tailwindcss"],
       github: "https://github.com/Shubhamrautela838/PORTFOLIO",
-      webapp: "https://chatapp-7atl.onrender.com/login",
+      webapp: "https://portfolio-murex-eight-4uicst412x.vercel.app/",
     },
     {
       id: 2,
@@ -164,7 +164,7 @@ export const SkillsInfo = [
       image: liveQuizLogo,
       tags: ["HTML", "CSS", "JavaScript"],
       github: "https://github.com/Shubhamrautela838/VibeCheckQuiz",
-      webapp: "https://portfolio-murex-eight-4uicst412x.vercel.app/",
+      webapp: "https://vibe-check-quiz.vercel.app/",
     },
     {
       id: 3,
