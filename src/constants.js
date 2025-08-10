@@ -42,6 +42,7 @@ import csharpLogo from './assets/tech_logo/csharp.png';
 import githubdetLogo from './assets/work_logo/github_det.png';
 import liveQuizLogo from './assets/work_logo/quiz_prep.png';
 import memegenerator from './assets/work_logo/memegenerator.png';
+import portfolio from './assets/work_logo/portfolio.png';
 
 
 
@@ -145,18 +146,28 @@ export const SkillsInfo = [
       github: "https://github.com/Shubhamrautela838/Chit-Chat",
       webapp: "https://chatapp-7atl.onrender.com/login",
     },
-    {
+      {
       id: 1,
+      title: "PORTFOLIO",
+      description:
+        "Chit-Chat is a JavaScript-based chat application designed to provide real-time messaging capabilities. The project demonstrates skills in frontend and backend integration, real-time communication, and user interface development. It showcases the ability to build interactive, scalable web applications with modern JavaScript technologies.",
+      image: portfolio,
+      tags: ["Javascript","React JS", "Tailwindcss"],
+      github: "https://github.com/Shubhamrautela838/PORTFOLIO",
+      webapp: "https://chatapp-7atl.onrender.com/login",
+    },
+    {
+      id: 2,
       title: "Vibe Check Quiz",
       description:
         "VibeCheckQuiz is a web-based quiz application built with JavaScript, CSS, and HTML. It offers users an engaging and interactive way to test their knowledge on various topics, featuring a dynamic interface and responsive design. This project highlights skills in frontend development and user experience design.",
       image: liveQuizLogo,
       tags: ["HTML", "CSS", "JavaScript"],
       github: "https://github.com/Shubhamrautela838/VibeCheckQuiz",
-      webapp: "https://vibe-check-quiz.vercel.app/",
+      webapp: "https://portfolio-murex-eight-4uicst412x.vercel.app/",
     },
     {
-      id: 2,
+      id: 3,
       title: "Meme Generator",
       description:
         "MemeGenerator is a web application built with JavaScript, HTML, and CSS that allows users to easily create and customize memes. It features a user-friendly interface for adding text, selecting images, and sharing the final memes, showcasing skills in interactive frontend development and creative web design.",
