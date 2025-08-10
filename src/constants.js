@@ -150,7 +150,7 @@ export const SkillsInfo = [
       id: 1,
       title: "PORTFOLIO",
       description:
-        "Chit-Chat is a JavaScript-based chat application designed to provide real-time messaging capabilities. The project demonstrates skills in frontend and backend integration, real-time communication, and user interface development. It showcases the ability to build interactive, scalable web applications with modern JavaScript technologies.",
+        "A modern, responsive portfolio website showcasing my skills, projects, and professional experience. Built with clean design principles and optimized for all devices, this project highlights my expertise in web development and personal branding.",
       image: portfolio,
       tags: ["Javascript","React JS", "Tailwindcss"],
       github: "https://github.com/Shubhamrautela838/PORTFOLIO",
