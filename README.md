@@ -1,59 +1,87 @@
-# 🌐 Animated Portfolio Website
+# 🌟 Shubham Rautela's Portfolio
 
-A sleek, responsive, and fully customizable **animated portfolio website** built using **React.js** and **Tailwind CSS**. This project gained **27K+ views** on [YouTube]([https://youtube.com/your-video-link](https://youtu.be/ypSc8HEurGQ?si=yI3GJCye3sAKoemW)) – loved by developers and students for its modern design and clean code.
+Welcome to my personal developer portfolio!  
+This project is a live showcase of my skills, projects, and passion for web development.
 
-## 🚀 Live Demo
+---
 
-🔗 [View Portfolio Live](https://tarunkaushik.vercel.app/)
+## 🚀 Overview
+
+This portfolio was crafted to highlight my journey as a developer, the projects I've built, and the technologies that drive my creativity. Built primarily with **JavaScript** and styled with **CSS** (including modern tools like **Tailwind CSS**), it serves as both a resume and a living lab for my latest experiments.
+
+---
 
 ## 🛠️ Tech Stack
 
-- ⚛️ React.js
-- 🎨 Tailwind CSS
-- 💾 Vercel(for deployment)
+- **JavaScript** (Core language)
+- **CSS** & **Tailwind CSS** for responsive modern design
+- **HTML**
+- **Vite** for lightning-fast development
+- **PostCSS** for advanced styling workflows
+- **ESLint** for code quality
+- Deployed via **Vercel** or your favorite static host
 
-## 📁 Features
+---
 
-- Responsive design for all screen sizes 📱💻
-- Smooth scroll and animation effects ✨
-- Clean and modular React components 🧩
-- Easy to customize with Tailwind utility classes 🎯
-- Professional sections: About, Skills, Projects, Contact, etc. 👨‍💻
+## 📂 Project Structure
 
+- `/src` - Main application source code (components, pages, assets)
+- `/public` - Static files and icons
+- `index.html` - Entry point for the application
+- `package.json` - Project metadata and scripts
+- `tailwind.config.js`, `postcss.config.js` - Styling configurations
+- `vite.config.js` - Build tooling
 
-## 🧑‍💻 How to Use
+---
 
-### 1. Clone the Repo
+## 🚦 Getting Started
 
-```bash
-git clone [https://github.com/codingmastr/Tarun-s-Portfolio.git]
-cd your-repo-name
-````
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Shubhamrautela838/PORTFOLIO.git
+   cd PORTFOLIO
+   ```
+2. **Install Dependencies**
+   ```bash
+   npm install
+   ```
+3. **Run the Development Server**
+   ```bash
+   npm run dev
+   ```
+4. **Build for Production**
+   ```bash
+   npm run build
+   ```
 
-### 2. Install Dependencies
+---
 
-```bash
-npm install
-```
+## ✨ Features
 
-### 3. Run the App
+- Sleek, modern UI with responsive design
+- Dynamic project and skill sections
+- Clean codebase and modular structure
+- Easy to deploy and customize
 
-```bash
-npm start
-```
+---
 
-### 4. Build for Production
+## 👤 About Me
 
-```bash
-npm run build
-```
+I am Shubham Rautela, an enthusiastic web developer passionate about creating elegant and functional web experiences.  
+[Connect with me on LinkedIn!](https://www.linkedin.com/in/shubhamrautela/)
 
-## 📹 YouTube Tutorial
+---
 
-Watch the full build on YouTube:
-📺 [React Portfolio Website - 27K+ Views](https://youtu.be/ypSc8HEurGQ?si=winjJhc9qzNrCqLD)
+## 💡 Inspiration
 
-## 🌟 Credits
+This portfolio is both a reflection of my work and a sandbox for trying new ideas. Fork it, star it, and feel free to use it as a template for your own journey!
 
-This project was created with ❤️ by [Tarun Kaushik](https://tarunkaushik.vercel.app/).
-If you like it, feel free to ⭐ this repository and share!
+---
+
+## 📄 License
+
+MIT
+
+---
+
+> If you like this project, please ⭐️ the repo and share your feedback!
